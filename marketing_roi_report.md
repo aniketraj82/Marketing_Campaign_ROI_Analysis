@@ -78,10 +78,6 @@ The budget reallocation scenario is estimated to change profit by **$1,896,543**
 4. Move reporting from campaign-level vanity metrics to CAC, ROAS, gross-profit ROI, and net profit after marketing.
 5. Review budget allocation weekly so spend follows performance instead of historical channel habits.
 
-## Resume Talking Point
-
-Built a marketing ROI analysis project using Python to evaluate CAC, ROAS, gross-profit ROI, channel performance, and campaign-level budget decisions, identifying which campaigns to scale, optimize, reduce, or stop.
-
 ## Charts
 
 - `outputs/charts/roi_by_channel.png`
